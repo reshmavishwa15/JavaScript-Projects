@@ -1,2 +1,1 @@
-var A = "She said, \"JavaScript is fun!\"";
-window.alert(A);
+document.write("Hello, " + "World!");
