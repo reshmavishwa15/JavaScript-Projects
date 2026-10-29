@@ -1,2 +1,2 @@
-var B = "concatenated" + " string";
-document.write(B);
+var Family = "The Arezzinis" , Dad = "Jeremiah", Mom = "Hermione", Daughter = "Penny", Son = "Zorro";
+document.write(Dad);
